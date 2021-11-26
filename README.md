@@ -1,0 +1,5 @@
+- 🤌🏻 Ciao, Sono @zAiro12, se non si fosse capito, sono italiano
+- 💻 Sono un programmatore
+- 👨🏻‍💻 sto cercando di imaparare a programmare in python, java, go, html e molto altro
+- 👀 Ho aperto un gitHub con i miei amici programmatori, si chiama @programmaMI
+- 📫 Per saperne di più contattami su lucaairoldi92@gmail.com
